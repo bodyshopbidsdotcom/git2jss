@@ -17,5 +17,3 @@ touch /Users/$user/.snapsheet/.env
   echo '# THIS FILE WILL BE REGULARLY OVERWRITTEN BY DEVICE MANAGEMENT'
   echo '# ANY ADDITIONS TO THIS FILE ARE DONE SO AT YOUR OWN RISK'
 } > /Users/$user/.snapsheet/.env
-
-exit 0
